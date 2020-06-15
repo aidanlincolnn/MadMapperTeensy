@@ -12,7 +12,7 @@
 //#define JUST_TEST_LEDS
 
 #define NUM_LEDS 30
-#define DATA_PIN 2 (teensy pin 2, octo data line 1, orange ethernet wire)
+#define DATA_PIN 2 //(teensy pin 2, octo data line 1, orange ethernet wire)
 
 // Fast LED Buffers
 CRGB leds[NUM_LEDS];
